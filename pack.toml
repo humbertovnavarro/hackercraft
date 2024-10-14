@@ -1,0 +1,12 @@
+name = "Hackercraft"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c23d2cb61c58c7a63bd437f52357776d6119c4816a1324aeec298963f74e02e9"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"
