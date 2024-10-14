@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "70ee5b8c58a4618fa0d94034c0b1422ef519af47e6f8d1f469e952d483d8f800"
+hash = "bd0f35e894af871afe2cad89d6b22221c23cdec321712258e3b25b22096971ad"
 metafile = true
 
 [[files]]
@@ -70,8 +70,18 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "56b356fd753d4d9debdb433f57e4b390d457a776ad9413d1e9008c76b0163908"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "e57fdbd46e93be972ecdb79212804f32a8337eb830eaa0decd2b19496618deec"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
@@ -86,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/glitchcore.pw.toml"
-hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
+hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
 metafile = true
 
 [[files]]
@@ -140,8 +150,18 @@ hash = "5a98133891a72e041e37bc235e86d495e488387f1628fc1377e6b5169dfbb8bd"
 metafile = true
 
 [[files]]
+file = "mods/log-begone.pw.toml"
+hash = "714b1b257f95d4d3d70b1da8d54f093f5c5d1a49dff8224f8b79051b161501af"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "3a08207e88e4e4b0e2b7e5856800855fa0802a355045689293cb559606d33d95"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "885b3a412f67ae39c7cddd9fe878e82e055ebb9bc7246255987cceb66f336ab3"
 metafile = true
 
 [[files]]
