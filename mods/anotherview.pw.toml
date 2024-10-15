@@ -1,0 +1,13 @@
+name = "Anotherview"
+filename = "anotherview-1.20.1-rse1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Uul3etDF/versions/SZZHRw3b/anotherview-1.20.1-rse1.0.0.jar"
+hash-format = "sha512"
+hash = "ae0c1e3d5145f13a46fa2b650bf2c038642d5f54a0e5bc10835e9defd473edd0b104387c8f850a3b926267bc52cba8136b42788840d12e41dbc3592cce16ea29"
+
+[update]
+[update.modrinth]
+mod-id = "Uul3etDF"
+version = "SZZHRw3b"

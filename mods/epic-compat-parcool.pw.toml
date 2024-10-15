@@ -1,0 +1,13 @@
+name = "Epic Compat: ParCool"
+filename = "epiccompat_parcool-forge-1.20.1-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2hNqxmi2/versions/m0zbQ5O0/epiccompat_parcool-forge-1.20.1-1.0.3.jar"
+hash-format = "sha512"
+hash = "11c25afd1d8c07d82f9715f4db193ce9f0d250bed0b27af1b425519650a32359d7dce3211ec11bd7cb5b1bf6cb69b021bf4b821b90cd2238f78181828de412f8"
+
+[update]
+[update.modrinth]
+mod-id = "2hNqxmi2"
+version = "m0zbQ5O0"
