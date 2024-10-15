@@ -485,11 +485,6 @@ hash = "323adfd6ebf5b53181c02f425ea70a0138ab1bde1da58da8874d93d37cd44ec2"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "a1c202690fef8c74cc7be79c23172be3e6db1993f55efae07cc8c56dca71c639"
-metafile = true
-
-[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "014f6a45e3853e6048b9bada3dc89c813adc0ffc402734c80908a9426c3fe725"
 metafile = true
