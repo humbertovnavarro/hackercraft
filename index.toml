@@ -1168,6 +1168,11 @@ hash = "416c089224a401ec7c0ef60ae6f1f8555e783f89ec6aba49d72f41c58d7955d2"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "a1b5ddac0b1ab07ddb68a78d589eb4a44ee2b3fef4f1b1b0c0b8cf0b8a1436dd"
+metafile = true
+
+[[files]]
 file = "mods/anotherview.pw.toml"
 hash = "349ddace4f835a0ede9e033eb1fc1e6953c764eb11269c92d07c8a04f890f12a"
 metafile = true
