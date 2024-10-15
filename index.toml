@@ -540,11 +540,6 @@ hash = "177c43b5d77ec9e16c82f86afa5430b3e040bb5072b4bdfdfb31f8e37631d704"
 metafile = true
 
 [[files]]
-file = "mods/spice-of-life.pw.toml"
-hash = "ea8b03f22cdc961ec24f706b0a0877cb6f4c61159c00acd3adba48d98507ec8f"
-metafile = true
-
-[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "71f5447cc88aaa5d1f4a494cbebc9ecb3aa268c1fd4fa2931371a0763c0a09dc"
 metafile = true
