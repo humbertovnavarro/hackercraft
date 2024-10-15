@@ -1,0 +1,13 @@
+name = "Samurai Dynasty"
+filename = "samurai_dynasty-0.0.48-1.20.1-neo.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lMWJDrbO/versions/WCO7ysG0/samurai_dynasty-0.0.48-1.20.1-neo.jar"
+hash-format = "sha512"
+hash = "04603dc181b5fa183535c203c7a0fe5d1ce79ef7ed82829bedb19dce05addb8799433c6092214b0a4cc4f95b811d2de6f45d3b2179a6d040b500674e5872f292"
+
+[update]
+[update.modrinth]
+mod-id = "lMWJDrbO"
+version = "WCO7ysG0"

@@ -1,0 +1,13 @@
+name = "More Totems of Undying"
+filename = "More Totems of Undying-forge-1.20.1-2.16.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xt0pMhSq/versions/A68awhoI/More%20Totems%20of%20Undying-forge-1.20.1-2.16.0.jar"
+hash-format = "sha512"
+hash = "3f1b24ce08f9520607acddd2f0ddfc931fb80bd1234839da070e95bfbc1b20a1c46b38363a089c8d06a13764827a1acc01a7511b76e9a4389bad27dc6ae05a60"
+
+[update]
+[update.modrinth]
+mod-id = "Xt0pMhSq"
+version = "A68awhoI"
